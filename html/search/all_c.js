@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['nuklear',['Nuklear',['../index.html',1,'']]],
   ['name',['name',['../structnk__popup__state.html#aabf4437be5882c80a3a290bc5240bc68',1,'nk_popup_state::name()'],['../structnk__edit__state.html#a87920c698f22575eab9d07d5ebae318e',1,'nk_edit_state::name()'],['../structnk__property__state.html#a6f05883484dcfe7d79af5dd6fda2b2ed',1,'nk_property_state::name()'],['../structnk__window.html#afdb4b90e7f28cfec870cb349a5161ebc',1,'nk_window::name()']]],
   ['name_5fstring',['name_string',['../structnk__window.html#a5fbe50f169aa47cab86ebef31e43047a',1,'nk_window']]],
   ['needed',['needed',['../structnk__memory__status.html#a1dcfdb12316a8b864595d23839ef7072',1,'nk_memory_status::needed()'],['../structnk__buffer.html#a6b0ea49209eaba5285b715d902c5f446',1,'nk_buffer::needed()']]],

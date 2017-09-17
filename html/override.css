@@ -1,0 +1,24 @@
+/* Title has spacing issues */
+#projectbrief {
+  padding: 0 0 10px 0;
+}
+
+/* Constrain main page images */
+.image img {
+  max-width: 800px;
+  margin: 20px;
+}
+
+/* Gives code fragments some space */
+.fragment {
+  padding: 6px;
+}
+
+/* Remove these entirely */
+#nav-path,
+li.footer,
+hr.footer,
+address.footer {
+  display: none;
+}
+

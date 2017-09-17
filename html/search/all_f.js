@@ -3,6 +3,7 @@ var searchData=
   ['r',['r',['../structnk__color.html#a8c27a9094c4cc8a24adfd111f1c38812',1,'nk_color::r()'],['../structnk__colorf.html#a19908af2a694aa5dd2f0d045b5bc69c1',1,'nk_colorf::r()'],['../structnk__command__arc.html#a46c4562ff5abdf1c75bc95ba86f9f9ba',1,'nk_command_arc::r()'],['../structnk__command__arc__filled.html#a31784cc181f33422ea8b09bc01463937',1,'nk_command_arc_filled::r()']]],
   ['range',['range',['../structnk__chart__slot.html#a60431f77dd3aff82aba2b751034a8638',1,'nk_chart_slot']]],
   ['ratio',['ratio',['../structnk__row__layout.html#ade0fedd4bed112aee70a65ab4adcc584',1,'nk_row_layout']]],
+  ['readme_2emd',['Readme.md',['../_readme_8md.html',1,'']]],
   ['redo_5fchar_5fpoint',['redo_char_point',['../structnk__text__undo__state.html#ad1067474fa6efe12ad27a6b765b15c44',1,'nk_text_undo_state']]],
   ['redo_5fpoint',['redo_point',['../structnk__text__undo__state.html#ab5cd02ca0246a81627790e3eb20773e1',1,'nk_text_undo_state']]],
   ['region',['region',['../structnk__image.html#a0558f88dc25def97650d525d65429674',1,'nk_image']]],
