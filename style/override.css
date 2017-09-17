@@ -10,7 +10,7 @@
 }
 
 /* Gives code fragments some space */
-.fragment {
+div.fragment {
   padding: 6px;
 }
 
